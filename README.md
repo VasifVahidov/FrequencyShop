@@ -59,6 +59,8 @@ FrequencyShop is a Python-based tool designed to help you manage and optimize yo
 3. Analyze the visualizations to gain insights into your spending habits and make informed budgeting decisions.
 
 ## Screenshots
+![download__1_-removebg-preview](https://github.com/VasifVahidov/FrequencyShop/assets/25711896/88efc9cb-8034-4a0e-8e5a-6241d2777551)
+![download-removebg-preview](https://github.com/VasifVahidov/FrequencyShop/assets/25711896/78909c11-8f27-4499-9919-f6498830561d)
 
 - Add screenshots of your visualizations or any other relevant project images here.
 
