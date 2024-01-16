@@ -33,7 +33,7 @@ FrequencyShop is a Python-based tool designed to help you manage and optimize yo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/frequencyshop.git
+   git clone https://github.com/VasifVahidov/frequencyshop.git
    ```
 
 2. Install the required Python libraries:
