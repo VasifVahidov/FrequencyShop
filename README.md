@@ -72,7 +72,7 @@ You can type `'done'` to finish entering items. After inputting the data, the sc
 
 ## Screenshots
 
-Add your screenshots here to showcase the dashboard and visualizations. For example:
+Add your screenshots here   to showcase the dashboard and visualizations. For example:
 
 ![dashboard1](image.png)
 
