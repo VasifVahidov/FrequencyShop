@@ -1,4 +1,4 @@
-```markdown
+
 # FrequencyShop - Grocery Expense Dashboard
 
 FrequencyShop is an interactive Python tool designed to help you manage and optimize your grocery expenses. With features to input data via the console, calculate and visualize expenses, and reset data, this tool offers a comprehensive solution for personal budgeting.
@@ -106,4 +106,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License.
 
 Feel free to reach out if you have any questions or need assistance with using FrequencyShop.
-```
